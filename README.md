@@ -1,6 +1,6 @@
 # D-Credit: A Dynamic Sliding Window of Tensor Communication Mechanism to Accelerate Distributed DNN Training #  
 ## Introduction ##
-This repository contains the codes of the D-Credit paper submitted to IEEE INFOCOM. D-Credit is a dynamic sliding window of tensor communication mechanism implemented on PyTorch and ByteScheduler frameworks. D-Credit outperforms the state-of-the-art communication scheduling mechanisms ByteScheduler and WFBP.  
+This repository contains the codes of the D-Credit paper submitted to IEEE TNNLS. D-Credit is a dynamic sliding window of tensor communication mechanism implemented on PyTorch and ByteScheduler frameworks. D-Credit outperforms the state-of-the-art communication scheduling mechanisms ByteScheduler and WFBP.  
 <div align=center><img src="system%20architecture.png" width="500"/></div> 
 
 ## Installation ##
